@@ -1,4 +1,4 @@
-import React, { useCallback, useEffect, useRef, useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import { getChatMessages } from '../services/api';
 import { CircularProgress, Typography, Box, TextField, Button } from '@mui/material';
 import dayjs from 'dayjs';

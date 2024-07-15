@@ -8,7 +8,6 @@ import {
   Typography,
 } from "@mui/material";
 import Avatar from "@mui/material/Avatar";
-import { deepOrange, deepPurple } from "@mui/material/colors";
 import dayjs from "dayjs";
 
 const ChatList = ({ onSelectChat, onSelectedName,dark }) => {
