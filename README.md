@@ -1,16 +1,13 @@
-Great! Here is the updated README file with the provided links:
-
----
 
 # Telegram UI Clone with React
 
-## Introduction
+## Overview
 
-This project is a pixel-perfect replica of the Telegram messaging application, created for the assignment round for the position of Frontend React Developer at BeyondChats. The application has been built to closely mimic the UI/UX of the Telegram app in both desktop and mobile views using ReactJS and MUI (Material-UI). The application fetches chat and message data from provided API endpoints to display real-time data.
+This project is a replica of the Telegram messaging application's user interface, developed for the Frontend React Developer assignment at BeyondChats. It aims to closely replicate the Telegram app’s appearance and functionality in both desktop and mobile views using ReactJS and Material-UI (MUI). The app retrieves chat and message data from specified API endpoints to display real-time information.
 
 ## Live Demo
 
-You can view the live demo of the project [here](https://telegram-clone-ecru.vercel.app/).
+You can view the live demo of the project [here](https://telegram-ui-mockup-teal.vercel.app/).
 
 
 ## Mobile View
@@ -47,32 +44,20 @@ The project is organized as follows:
   ...
 ```
 
-## Features
+## Kwy Features
 
-- **Responsive Design:** The application is fully responsive and adjusts seamlessly between desktop and mobile views.
 - **Chat List:** Displays a list of chats fetched from the provided API endpoint.
 - **Chat Window:** Displays messages for a selected chat, fetched from the provided API endpoint.
-- **Real-time Data:** Utilizes API endpoints to display real-time chat and message data.
 - **Material-UI Integration:** Uses Material-UI components for a polished and modern UI.
+- **Real-time Data:**: Utilizes API endpoints to display real-time chat and message data.
 
 ## Technologies Used
 
-- **ReactJS**: For building the user interface.
-- **Material-UI (MUI)**: For UI components and styling.
-- **Axios**: For making API requests.
-- **React Router**: For handling navigation between views.
+- **ReactJS**
+- **Material-UI (MUI)**
+- **Axios**
+- **React Router**
 
-## API Endpoints
-
-1. **Get All Chats**:
-   - **URL**: `https://devapi.beyondchats.com/api/get_all_chats?page=1`
-   - **Method**: GET
-   - **Description**: Returns a list of chats (paginated API).
-
-2. **Get Chat Messages**:
-   - **URL**: `https://devapi.beyondchats.com/api/get_chat_messages?chat_id=3888`
-   - **Method**: GET
-   - **Description**: Returns a list of messages for a given chat ID.
 
 ## Setup Instructions
 
@@ -99,18 +84,4 @@ The project is organized as follows:
 
 ## Deployment
 
-The project has been deployed using Vercel. You can view the live version of the application [here](https://telegram-clone-ecru.vercel.app/).
-
-## Conclusion
-
-This project was developed as part of an assignment to demonstrate my skills in ReactJS and UI/UX design. While the 48-hour time frame was a challenge, I strived to replicate the Telegram UI/UX as closely as possible and implement the necessary functionality using the provided API endpoints. I hope this submission meets your expectations.
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Feel free to reach out if you have any questions or need further clarification. Thank you for the opportunity!
-
----
+The project has been deployed using Vercel. You can view the live version of the application [here](https://telegram-ui-mockup-teal.vercel.app/).
