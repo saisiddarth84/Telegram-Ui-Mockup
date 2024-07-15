@@ -1,5 +1,4 @@
-
-# Telegram UI Clone with React
+# Telegram UI with React
 
 ## Overview
 
