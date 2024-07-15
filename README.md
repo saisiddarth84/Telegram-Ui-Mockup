@@ -16,7 +16,6 @@ You can view the live demo of the project [here](https://telegram-clone-ecru.ver
 ## Mobile View
 <div>
 <img src="src/images/img1.jpeg" alt="Mobile View" width="300"/>
-<img src="src/images/img2.jpeg" alt="Mobile View" width="300"/>
 <img src="src/images/img3.jpeg" alt="Mobile View" width="300"/>
 <div>
 
